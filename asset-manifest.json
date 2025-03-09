@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/netflix_sample/static/css/main.f9c07f12.css",
-    "main.js": "/netflix_sample/static/js/main.9d712b96.js",
-    "static/js/488.9b73c4a7.chunk.js": "/netflix_sample/static/js/488.9b73c4a7.chunk.js",
-    "static/media/it2.png": "/netflix_sample/static/media/it2.9590c052775e3c858b6a.png",
-    "static/media/Thops.png": "/netflix_sample/static/media/Thops.aa5bf8363813b6bbed42.png",
-    "static/media/python2.jpg": "/netflix_sample/static/media/python2.18933ca9e06ac395ec95.jpg",
-    "static/media/java1.jpeg": "/netflix_sample/static/media/java1.d1a7892735ebb5346012.jpeg",
-    "static/media/action.png": "/netflix_sample/static/media/action.6f9c72ebdb1d670dfd6f.png",
-    "static/media/apk.webp": "/netflix_sample/static/media/apk.9858d2708793d0ed0ec3.webp",
-    "index.html": "/netflix_sample/index.html",
-    "main.f9c07f12.css.map": "/netflix_sample/static/css/main.f9c07f12.css.map",
-    "main.9d712b96.js.map": "/netflix_sample/static/js/main.9d712b96.js.map",
-    "488.9b73c4a7.chunk.js.map": "/netflix_sample/static/js/488.9b73c4a7.chunk.js.map"
+    "main.css": "/Thopstech_web/static/css/main.f9c07f12.css",
+    "main.js": "/Thopstech_web/static/js/main.75f19fac.js",
+    "static/js/488.9b73c4a7.chunk.js": "/Thopstech_web/static/js/488.9b73c4a7.chunk.js",
+    "static/media/it2.png": "/Thopstech_web/static/media/it2.9590c052775e3c858b6a.png",
+    "static/media/Thops.png": "/Thopstech_web/static/media/Thops.aa5bf8363813b6bbed42.png",
+    "static/media/python2.jpg": "/Thopstech_web/static/media/python2.18933ca9e06ac395ec95.jpg",
+    "static/media/java1.jpeg": "/Thopstech_web/static/media/java1.d1a7892735ebb5346012.jpeg",
+    "static/media/action.png": "/Thopstech_web/static/media/action.6f9c72ebdb1d670dfd6f.png",
+    "static/media/apk.webp": "/Thopstech_web/static/media/apk.9858d2708793d0ed0ec3.webp",
+    "index.html": "/Thopstech_web/index.html",
+    "main.f9c07f12.css.map": "/Thopstech_web/static/css/main.f9c07f12.css.map",
+    "main.75f19fac.js.map": "/Thopstech_web/static/js/main.75f19fac.js.map",
+    "488.9b73c4a7.chunk.js.map": "/Thopstech_web/static/js/488.9b73c4a7.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9c07f12.css",
-    "static/js/main.9d712b96.js"
+    "static/js/main.75f19fac.js"
   ]
 }
